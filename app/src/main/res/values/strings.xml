@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArithOp</string>
+    <string name="first_value">First Number</string>
+    <string name="second_value">Second Number</string>
+    <string name="output_value">Output Value</string>
+    <string name="op_sel">Select Operation</string>
+    <string name="op_div">Division</string>
+    <string name="op_mul">Multiplication</string>
+    <string name="op_add">Addition</string>
+    <string name="op_sub">Subtraction</string>
+    <string name="op_mod">Modulus</string>
+</resources>
